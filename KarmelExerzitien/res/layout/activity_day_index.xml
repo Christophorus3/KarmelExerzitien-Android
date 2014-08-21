@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" xmlns:app="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        
+        
+        android:contentDescription="@string/background"
+        android:cropToPadding="true"
+        android:scaleType="fitEnd"
+        android:src="@drawable/background_bottom" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        style="@dimen/activity_horizontal_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:fitsSystemWindows="true"
+        app:context="at.karmel.karmelexerzitien.DayIndexActivity" />
+
+</RelativeLayout>

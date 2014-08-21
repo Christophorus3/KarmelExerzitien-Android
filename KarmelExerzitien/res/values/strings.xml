@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KarmelExerzitien</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem_ipsum">Das ist reines Testgefasel und braucht nicht weiter zu beachtet werden…</string>
+    <string name="background">Background Image</string>
+    <string name="title_image">Title Image</string>
+    <string name="gospel">Evangelium</string>
+    <string name="impulse">Tagesimpuls</string>
+    <string name="ueber_edith">Edith Stein (1891 - † 1942), Jüdin, Philosophin, Karmelitin, Martyrin in Auschwitz</string>
+    <string name="edith_button">mehr über Edith Stein</string>
+    <string name="ueber_1">Die Online Exerzitien bieten Ihnen täglich eine Anregung zu Besinnung und Gebet. Die täglichen Impulse bestehen aus Texten Edith Steins und aus den Evangelien der Liturgie während der Fastenzeit 2014.</string>
+    <string name="ueber_2">Ein Projekt der Karmeliten in Österreich, der Edith Stein Gesellschaft Österreich und der Marienschwestern vom Karmel. Besuchen Sie auch die Webseiten der Organisatoren: Tippen Sie einfach auf die Logos</string>
+    <string name="ueber_3">Textnachweis: Die Texte aus den Werken der hl. Edith Stein sind aus der Edith Stein Gesamtausgabe (ESGA), Verlag Herder, zitiert.</string>
+    <string name="ueber_4">Bildnachweis: Start- und Hintergrundbild © Thomas Ascher / PIXELIO, Titelbild Evangelium: © Florian Feuchtner, sonstige Bilder: Archiv Marienschwestern vom Karmel. Historische Bilder von Edith Stein © Edith Stein Stiftung, Köln</string>
+    <string name="facebook_button">Besuchen Sie uns auf Facebook</string>
+    <string name="mail_button">Schreiben Sie uns ein Mail</string>
+    <string name="pixelio">Pixelio</string>
+    <string name="programmer">Programmierung: Christoph Ernst Wottawa</string>
+    <string name="picture">Picture</string>
+    <string name="ueber">Über KarmelExerzitien</string>
+    <string name="about">Über</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="welcome_header">Willkommen bei den KarmelExerzitien</string>
+    <string name="welcome_title">Fastenzeit 2014 mit Edith Stein</string>
+    <string name="welcome_text1">Die KarmelExerzitien bieten Ihnen täglich eine Anregung zu Besinnung und Gebet.</string>
+    <string name="welcome_text2">Ab dem 5. März finden Sie hier einen täglichen Impuls, bestehend aus Texten Edith Steins und aus den Evangelien der Liturgie während der Fastenzeit 2014.</string>
+    <string name="welcome_text3">Durch wischen nach links oder rechts können Sie zwischen allen bis zum heutigen Tag erschienen Texten navigieren.</string>
+
+</resources>
